@@ -9,5 +9,4 @@ This is our first attempt at applying reinforcement learning to decision-making 
   volume={35},
   number={3},
   pages={3077-3090},
-  keywords={Decision making;Smelting;Safety;Process control;Iron;Trajectory;Digital twins;Blast furnace (BF);offline reinforcement learning (RL);recurrent actor-critic network;sequential decision-making;supervision signal},
   doi={10.1109/TNNLS.2023.3340741}}
